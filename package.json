@@ -1,0 +1,17 @@
+{
+  "name": "cursor_clone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^1.4.0",
+    "@google/generative-ai": "^0.24.1",
+    "dotenv": "^16.5.0"
+  }
+}
